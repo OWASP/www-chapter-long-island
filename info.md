@@ -1,17 +1,10 @@
-### long island Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
+### Long Island Information
 
 ### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/owaspli/)
+* [Twitter](https://twitter.com/owaspli)
 
 ### Code Repository
-* [repo](#)
 
 ### Change Log
-* [changes](#)
 
