@@ -1,5 +1,5 @@
 ---
-title: Example
+title: Past Meetings
 layout:  null
 tab: true
 order: 1
@@ -8,4 +8,4 @@ tags: example-tag
 
 ## Example
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+<place_holder for past meeting entries to be converted from owasp.org media wiki
