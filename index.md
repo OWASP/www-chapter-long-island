@@ -5,7 +5,7 @@ title: OWASP Long Island, NY
 tags: chapter long-island long island ny new york
 # chapter site doesn't require level level: 4
 
-region: United States
+region: North America
 
 ---
 
