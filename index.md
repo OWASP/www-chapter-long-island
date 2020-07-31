@@ -6,6 +6,9 @@ tags: chapter long-island long island ny new york
 # chapter site doesn't require level level: 4
 
 region: North America
+meetup-group: owaspli
+country: USA
+postal-code: 11530
 
 ---
 
