@@ -5,4 +5,3 @@
 
 
 
-* [Frank Zinghini](mailto://frank.zinghini@avi.com)
