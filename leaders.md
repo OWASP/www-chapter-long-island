@@ -1,6 +1,6 @@
 ### Leaders
-* [Richard Laine](mailto:richard.laine@owasp.com)
-* [Chris Cimino](mailto:chris.cimino@owasp.com)
+* [Richard Laine](mailto:rich.laine@owasp.org)
+* [Chris Cimino](mailto:chris.cimion@owasp.org)
 
 
 
