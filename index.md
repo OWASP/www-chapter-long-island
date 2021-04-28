@@ -18,8 +18,8 @@ Welcome to the Long Island, NY Chapter!
 
 ### A List of Donors
 <ul class="no-bullets">
-	<li>Educational Supporters: [![Adelphi University](/assets/images/AdelphiLogo-150x64.png)](https://www.adelphi.edu/)</li>
-	<li>Corporate Silver Supporters [![Secure Decision](/assets/images/200px-Secdec-logo_division.png)](https://securedecisions.com/)</ul>
+	<li>Educational Supporters:<a href="https://www.adelphi.edu/"><img src="/assets/images/AdelphiLogo-150x64.png" alt="Adelphi"/>Adelphi University</a></li>
+	<li>Corporate Silver Supporters <a href="https://securedecisions.com/"><img src="/assets/images/200px-Secdec-logo_division.png" alt="Secure Decisions"/>Adelphi University</a></li>
 </ul>
 
 ### Check our Upcoming Meetup Events:
