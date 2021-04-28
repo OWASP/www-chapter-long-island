@@ -16,10 +16,6 @@ postal-code: 11735
 
 Welcome to the Long Island, NY Chapter!
 
-### A List of Donors
-Educational Supporters: [![Adelphi University](/assets/images/AdelphiLogo-150x64.png)](https://www.adelphi.edu/) <br/>
-Corporate Silver Supporters [![Secure Decision](/assets/images/200px-Secdec-logo_division.png)](https://securedecisions.com/)<br/>
-<br/>
 
 ### Check our Upcoming Meetup Events:
 
